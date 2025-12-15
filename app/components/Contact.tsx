@@ -47,7 +47,7 @@ export default function Contact() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
           {/* GitHub */}
           <a
-            href="https://github.com/your-username"
+            href="https://github.com/AgungDwiPangestu"
             target="_blank"
             rel="noopener noreferrer"
             className="card-hover group bg-white border border-slate-100 rounded-2xl p-6 text-center"
@@ -56,12 +56,12 @@ export default function Contact() {
               <IconGitHub className="w-7 h-7 text-white" />
             </div>
             <h3 className="font-semibold text-slate-800">GitHub</h3>
-            <p className="text-sm text-slate-500 mt-1">@your-username</p>
+            <p className="text-sm text-slate-500 mt-1">AgungDwiPangestu</p>
           </a>
 
           {/* LinkedIn */}
           <a
-            href="https://www.linkedin.com/in/your-username"
+            href="https://www.linkedin.com/in/agungdwipangestu/"
             target="_blank"
             rel="noopener noreferrer"
             className="card-hover group bg-white border border-slate-100 rounded-2xl p-6 text-center"
@@ -75,7 +75,7 @@ export default function Contact() {
 
           {/* Email */}
           <a
-            href="mailto:your.email@example.com"
+            href="mailto:agung.dwi23@students.utdi.ac.id"
             className="card-hover group bg-white border border-slate-100 rounded-2xl p-6 text-center"
           >
             <div className="w-14 h-14 mx-auto rounded-xl bg-gradient-to-br from-red-500 to-orange-500 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
@@ -83,7 +83,7 @@ export default function Contact() {
             </div>
             <h3 className="font-semibold text-slate-800">Email</h3>
             <p className="text-sm text-slate-500 mt-1">
-              your.email@example.com
+              agung.dwi23@students.utdi.ac.id
             </p>
           </a>
         </div>

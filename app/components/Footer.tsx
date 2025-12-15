@@ -42,7 +42,7 @@ export default function Footer() {
           {/* Social Links */}
           <nav aria-label="Social links" className="flex items-center gap-3">
             <a
-              href="https://github.com/your-username"
+              href="https://github.com/AgungDwiPangestu"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
@@ -51,7 +51,7 @@ export default function Footer() {
               <IconGitHub className="w-5 h-5" />
             </a>
             <a
-              href="https://www.linkedin.com/in/your-username"
+              href="https://www.linkedin.com/in/agungdwipangestu/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
@@ -60,7 +60,7 @@ export default function Footer() {
               <IconLinkedIn className="w-5 h-5" />
             </a>
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:agung.dwi23@students.utdi.ac.id"
               aria-label="Email"
               className="icon-bounce w-10 h-10 rounded-xl bg-slate-800 hover:bg-red-500 flex items-center justify-center text-slate-400 hover:text-white transition-colors"
             >
