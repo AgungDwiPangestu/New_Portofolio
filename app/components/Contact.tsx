@@ -91,7 +91,7 @@ export default function Contact() {
         {/* CTA */}
         <div className="mt-12 text-center">
           <a
-            href="mailto:your.email@example.com"
+            href="mailto:agung.dwi23@students.utdi.ac.id"
             className="inline-flex items-center gap-2 px-6 py-3 text-white font-medium bg-gradient-to-r from-blue-600 to-indigo-600 rounded-xl hover:shadow-lg hover:shadow-blue-200 transition-all"
           >
             <IconMail className="w-5 h-5" />
